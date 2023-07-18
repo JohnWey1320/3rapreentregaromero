@@ -1,0 +1,28 @@
+label {
+
+    color: red
+}
+
+input {
+
+    color: blue;
+    background-color: aqua;
+
+
+}
+
+button {
+
+    color: black;
+    background-color: blue;
+}
+
+option {
+    color: blue;
+    background-color: aqua;
+}
+
+#resultado {
+    color: red;
+
+}
